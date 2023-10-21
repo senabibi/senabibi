@@ -3,6 +3,16 @@
 <h1 align="center">Hi 👋, I'm Nursena Bitirgen</h1>
 <h3 align="center">Passionate Computer Engineering Student with a Love for Data Structures and Mathematics 🚀</h3>
 
+- 🌱 I’m currently learning **Data Structure and Data Bases**
+
+- 👨‍💻 All of my projects are available at [https://github.com/senabibi](https://github.com/senabibi)
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **bitirgensena@gmail.com**
+
+- ⚡ Fun fact **I think Computer Bugs worse than bugs**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nursena (sena) bitirgen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nursena (sena) bitirgen" height="30" width="40" /></a>
@@ -15,4 +25,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=senabibi&show_icons=true&locale=en" alt="senabibi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senabibi&" alt="senabibi" /></p>
