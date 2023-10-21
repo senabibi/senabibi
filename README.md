@@ -1,5 +1,5 @@
-[![MasterHead](https://media3.giphy.com/media/ny4AEe9yEqsRa/giphy.gif)
 
+<img align="center" alt="Coding" width="1000" height="400" src="https://media3.giphy.com/media/ny4AEe9yEqsRa/giphy.gif">
 <h1 align="center">Hi 👋, I'm Nursena Bitirgen</h1>
 <h3 align="center">Passionate Computer Engineering Student with a Love for Data Structures and Mathematics 🚀</h3>
 
