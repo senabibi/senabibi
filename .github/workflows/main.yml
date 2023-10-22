@@ -599,7 +599,7 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - node-version: '16'
 
     # Generates the snake  
       - uses: Platane/snk@master
