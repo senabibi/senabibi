@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nursena Bitirgen</h1>
-<h3 align="center">Passionate Computer Engineering Student with a Love for Data Structures and Mathematics 🚀</h3>
+<h3 align="center">Passionate Computer Engineering with a Love for Data Structures and Mathematics 🚀</h3>
 
 
 - 🌱 I’m currently learning **Data Structure and Data Bases**
